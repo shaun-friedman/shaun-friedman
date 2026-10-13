@@ -42,15 +42,6 @@ clinically validated.]
 
 ---
 
-## Also here
-
-- **[Serengeti animal detector](https://github.com/shaun-friedman/cv-serengeti-animal-detector)** —
-  transfer-learning CNN compared against a vision transformer on camera-trap imagery.
-- **[Smart city time series](https://github.com/shaun-friedman/[REPO-NAME])** —
-  LSTM forecasting on IoT sensor data, with a published dashboard.
-
----
-
 ## Background
 
 Before the M.S., fifteen years leading analytics and data science teams at
